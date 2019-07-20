@@ -1,0 +1,11 @@
+C:\DotNetApps\App13_Shakeel\App13_Shakeel\bin\Debug\App13_Shakeel.exe.config
+C:\DotNetApps\App13_Shakeel\App13_Shakeel\bin\Debug\App13_Shakeel.exe
+C:\DotNetApps\App13_Shakeel\App13_Shakeel\bin\Debug\App13_Shakeel.pdb
+C:\DotNetApps\App13_Shakeel\App13_Shakeel\obj\Debug\App13_Shakeel.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App13_Shakeel\App13_Shakeel\obj\Debug\App13_Shakeel.exe
+C:\DotNetApps\App13_Shakeel\App13_Shakeel\obj\Debug\App13_Shakeel.pdb
+C:\DotNetApps\App13_Shakeel\App13_Shakeel\bin\Debug\Newtonsoft.Json.dll
+C:\DotNetApps\App13_Shakeel\App13_Shakeel\bin\Debug\Newtonsoft.Json.pdb
+C:\DotNetApps\App13_Shakeel\App13_Shakeel\bin\Debug\Newtonsoft.Json.xml
+C:\DotNetApps\App13_Shakeel\App13_Shakeel\obj\Debug\App13_Shakeel.csproj.CopyComplete
+C:\DotNetApps\App13_Shakeel\App13_Shakeel\obj\Debug\App13_Shakeel.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\DotNetApps\App21\obj\Debug\App21.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App21\bin\Debug\App21.exe.config
+C:\DotNetApps\App21\bin\Debug\App21.exe
+C:\DotNetApps\App21\bin\Debug\App21.pdb
+C:\DotNetApps\App21\obj\Debug\App21.exe
+C:\DotNetApps\App21\obj\Debug\App21.pdb

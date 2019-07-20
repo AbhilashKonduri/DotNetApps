@@ -1,0 +1,7 @@
+C:\DotNetApps\App5\App5\obj\Debug\App5.csprojAssemblyReference.cache
+C:\DotNetApps\App5\App5\obj\Debug\App5.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App5\App5\bin\Debug\App5.exe.config
+C:\DotNetApps\App5\App5\bin\Debug\App5.exe
+C:\DotNetApps\App5\App5\bin\Debug\App5.pdb
+C:\DotNetApps\App5\App5\obj\Debug\App5.exe
+C:\DotNetApps\App5\App5\obj\Debug\App5.pdb

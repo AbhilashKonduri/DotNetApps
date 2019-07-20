@@ -1,0 +1,17 @@
+C:\DotNetApps\App17\App17_UnitTest\obj\Debug\App17_UnitTest.csprojAssemblyReference.cache
+C:\DotNetApps\App17\App17_UnitTest\obj\Debug\App17_UnitTest.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\App17_UnitTest.dll
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\App17_UnitTest.pdb
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\App17Library.exe
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\App17Library.pdb
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\App17Library.exe.config
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\DotNetApps\App17\App17_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\DotNetApps\App17\App17_UnitTest\obj\Debug\App17_UnitTest.csproj.CopyComplete
+C:\DotNetApps\App17\App17_UnitTest\obj\Debug\App17_UnitTest.dll
+C:\DotNetApps\App17\App17_UnitTest\obj\Debug\App17_UnitTest.pdb

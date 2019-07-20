@@ -1,0 +1,11 @@
+C:\DotNetApps\App12\App12\obj\Debug\App12.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App12\App12\bin\Debug\App12.exe.config
+C:\DotNetApps\App12\App12\bin\Debug\App12.exe
+C:\DotNetApps\App12\App12\bin\Debug\App12.pdb
+C:\DotNetApps\App12\App12\obj\Debug\App12.exe
+C:\DotNetApps\App12\App12\obj\Debug\App12.pdb
+C:\DotNetApps\App12\App12\bin\Debug\TextFileQuestions.txt
+C:\DotNetApps\App12\App12\bin\Debug\CommonLibrary.dll
+C:\DotNetApps\App12\App12\bin\Debug\CommonLibrary.pdb
+C:\DotNetApps\App12\App12\obj\Debug\App12.csprojAssemblyReference.cache
+C:\DotNetApps\App12\App12\obj\Debug\App12.csproj.CopyComplete

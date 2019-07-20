@@ -1,0 +1,9 @@
+C:\DotNetApps\SampleImplementation1\SampleImplementation1\bin\Debug\SampleImplementation1.dll
+C:\DotNetApps\SampleImplementation1\SampleImplementation1\bin\Debug\SampleImplementation1.pdb
+C:\DotNetApps\SampleImplementation1\SampleImplementation1\bin\Debug\CommonLibrary.dll
+C:\DotNetApps\SampleImplementation1\SampleImplementation1\bin\Debug\CommonLibrary.pdb
+C:\DotNetApps\SampleImplementation1\SampleImplementation1\obj\Debug\SampleImplementation1.csprojAssemblyReference.cache
+C:\DotNetApps\SampleImplementation1\SampleImplementation1\obj\Debug\SampleImplementation1.csproj.CoreCompileInputs.cache
+C:\DotNetApps\SampleImplementation1\SampleImplementation1\obj\Debug\SampleImplementation1.csproj.CopyComplete
+C:\DotNetApps\SampleImplementation1\SampleImplementation1\obj\Debug\SampleImplementation1.dll
+C:\DotNetApps\SampleImplementation1\SampleImplementation1\obj\Debug\SampleImplementation1.pdb

@@ -1,0 +1,7 @@
+C:\DotNetApps\App10\App10\obj\Debug\App10.csprojAssemblyReference.cache
+C:\DotNetApps\App10\App10\obj\Debug\App10.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App10\App10\bin\Debug\App10.exe.config
+C:\DotNetApps\App10\App10\bin\Debug\App10.exe
+C:\DotNetApps\App10\App10\bin\Debug\App10.pdb
+C:\DotNetApps\App10\App10\obj\Debug\App10.exe
+C:\DotNetApps\App10\App10\obj\Debug\App10.pdb

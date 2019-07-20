@@ -1,0 +1,14 @@
+C:\Users\vakondur\source\repos\App17\App17Library\bin\Debug\App17Library.exe.config
+C:\Users\vakondur\source\repos\App17\App17Library\bin\Debug\App17Library.exe
+C:\Users\vakondur\source\repos\App17\App17Library\bin\Debug\App17Library.pdb
+C:\Users\vakondur\source\repos\App17\App17Library\obj\Debug\App17Library.csprojAssemblyReference.cache
+C:\Users\vakondur\source\repos\App17\App17Library\obj\Debug\App17Library.csproj.CoreCompileInputs.cache
+C:\Users\vakondur\source\repos\App17\App17Library\obj\Debug\App17Library.exe
+C:\Users\vakondur\source\repos\App17\App17Library\obj\Debug\App17Library.pdb
+C:\DotNetApps\App17\App17Library\obj\Debug\App17Library.csprojAssemblyReference.cache
+C:\DotNetApps\App17\App17Library\obj\Debug\App17Library.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App17\App17Library\obj\Debug\App17Library.exe
+C:\DotNetApps\App17\App17Library\obj\Debug\App17Library.pdb
+C:\DotNetApps\App17\App17Library\bin\Debug\App17Library.exe.config
+C:\DotNetApps\App17\App17Library\bin\Debug\App17Library.exe
+C:\DotNetApps\App17\App17Library\bin\Debug\App17Library.pdb

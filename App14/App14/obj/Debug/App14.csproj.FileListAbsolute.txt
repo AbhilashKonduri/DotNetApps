@@ -1,0 +1,11 @@
+C:\DotNetApps\App14\App14\bin\Debug\App14.exe.config
+C:\DotNetApps\App14\App14\bin\Debug\App14.exe
+C:\DotNetApps\App14\App14\bin\Debug\App14.pdb
+C:\DotNetApps\App14\App14\obj\Debug\App14.csprojAssemblyReference.cache
+C:\DotNetApps\App14\App14\obj\Debug\App14.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App14\App14\obj\Debug\App14.exe
+C:\DotNetApps\App14\App14\obj\Debug\App14.pdb
+C:\DotNetApps\App14\App14\bin\Debug\Newtonsoft.Json.dll
+C:\DotNetApps\App14\App14\bin\Debug\Newtonsoft.Json.pdb
+C:\DotNetApps\App14\App14\bin\Debug\Newtonsoft.Json.xml
+C:\DotNetApps\App14\App14\obj\Debug\App14.csproj.CopyComplete

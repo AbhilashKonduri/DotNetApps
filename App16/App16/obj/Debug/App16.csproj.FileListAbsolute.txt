@@ -1,0 +1,7 @@
+C:\DotNetApps\App16\App16\bin\Debug\App16.exe.config
+C:\DotNetApps\App16\App16\bin\Debug\App16.exe
+C:\DotNetApps\App16\App16\bin\Debug\App16.pdb
+C:\DotNetApps\App16\App16\obj\Debug\App16.csprojAssemblyReference.cache
+C:\DotNetApps\App16\App16\obj\Debug\App16.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App16\App16\obj\Debug\App16.exe
+C:\DotNetApps\App16\App16\obj\Debug\App16.pdb

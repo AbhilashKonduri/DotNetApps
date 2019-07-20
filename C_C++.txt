@@ -1,0 +1,101 @@
+// Implement Stack DataStructure - Devoloper (last in first out)
+
+// Single Instance Design
+________________________________________________________________________________________
+
+int items[10];
+int top =0;
+
+
+void push(int items)
+{
+	items[top] = items;
+	top++;
+}
+
+int pop()
+{
+	top--;
+	return items[top]
+}
+
+______________________________________________________________________________________
+
+// Multiple Instance Design
+
+--------------------------------------------------------------------------------------
+
+struct stack //New Data type
+{
+	// Data members or instance data members
+	int items[10];
+	int top =0;
+}
+
+// Instance Methods
+
+void push(struct *S , int items)
+{
+	s ->items[ s->top] = items;
+	s ->top++;
+}
+
+int pop(struct *s)
+{
+	s->top--;
+	return s->items[s ->top]
+}
+
+
+---------------------------------------------------------------------------------------
+
+C++:
+--------------------------------------------------------------------------------------
+
+Class stack //New Data type
+{
+	// Data members or instance data members
+	int items[10];
+	int top =0;
+
+	// Instance Methods
+
+	void push( int items) // stack *this , int items
+	{
+		items[top] = items; // this -> items[this -> top]
+		top++; // this->top
+	}
+
+	int pop() // stack *this
+	{
+		top--; // this ->top
+		return items[top]
+	}
+
+}
+
+Class allows to add functions
+compiler injects this in the functions
+So after compilation both C C++ has same code
+---------------------------------------------------------------------------------------
+
+// Devoloper 2 - use code by devoloper 1 to implement in main()
+void main()
+{
+
+// Single Instance
+
+/*	push(100)
+	push(200)
+	int item = pop()
+*/
+
+// Multi instance
+
+/*
+	struct s1,s2;
+	push(&s1 ,100)
+	s1.pop(&s1)
+*/
+}
+

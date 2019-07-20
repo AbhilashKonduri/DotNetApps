@@ -1,0 +1,7 @@
+C:\DotNetApps\App20\bin\Debug\App20.exe.config
+C:\DotNetApps\App20\bin\Debug\App20.exe
+C:\DotNetApps\App20\bin\Debug\App20.pdb
+C:\DotNetApps\App20\obj\Debug\App20.csprojAssemblyReference.cache
+C:\DotNetApps\App20\obj\Debug\App20.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App20\obj\Debug\App20.exe
+C:\DotNetApps\App20\obj\Debug\App20.pdb

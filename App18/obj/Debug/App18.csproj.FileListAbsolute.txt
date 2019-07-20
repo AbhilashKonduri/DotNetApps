@@ -1,0 +1,7 @@
+C:\Users\vakondur\source\repos\App18\bin\Debug\App18.exe.config
+C:\Users\vakondur\source\repos\App18\bin\Debug\App18.exe
+C:\Users\vakondur\source\repos\App18\bin\Debug\App18.pdb
+C:\Users\vakondur\source\repos\App18\obj\Debug\App18.csprojAssemblyReference.cache
+C:\Users\vakondur\source\repos\App18\obj\Debug\App18.csproj.CoreCompileInputs.cache
+C:\Users\vakondur\source\repos\App18\obj\Debug\App18.exe
+C:\Users\vakondur\source\repos\App18\obj\Debug\App18.pdb

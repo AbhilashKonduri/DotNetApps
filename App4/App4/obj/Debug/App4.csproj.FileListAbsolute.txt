@@ -1,0 +1,7 @@
+C:\DotNetApps\App4\App4\bin\Debug\App4.exe.config
+C:\DotNetApps\App4\App4\bin\Debug\App4.exe
+C:\DotNetApps\App4\App4\bin\Debug\App4.pdb
+C:\DotNetApps\App4\App4\obj\Debug\App4.csprojAssemblyReference.cache
+C:\DotNetApps\App4\App4\obj\Debug\App4.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App4\App4\obj\Debug\App4.exe
+C:\DotNetApps\App4\App4\obj\Debug\App4.pdb

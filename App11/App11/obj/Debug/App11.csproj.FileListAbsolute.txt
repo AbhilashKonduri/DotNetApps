@@ -1,0 +1,7 @@
+C:\DotNetApps\App11\App11\bin\Debug\App11.exe.config
+C:\DotNetApps\App11\App11\bin\Debug\App11.exe
+C:\DotNetApps\App11\App11\bin\Debug\App11.pdb
+C:\DotNetApps\App11\App11\obj\Debug\App11.csprojAssemblyReference.cache
+C:\DotNetApps\App11\App11\obj\Debug\App11.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App11\App11\obj\Debug\App11.exe
+C:\DotNetApps\App11\App11\obj\Debug\App11.pdb

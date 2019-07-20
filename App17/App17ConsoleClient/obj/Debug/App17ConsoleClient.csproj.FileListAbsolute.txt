@@ -1,0 +1,14 @@
+C:\Users\vakondur\source\repos\App17\App17ConsoleClient\bin\Debug\App17ConsoleClient.exe.config
+C:\Users\vakondur\source\repos\App17\App17ConsoleClient\bin\Debug\App17ConsoleClient.exe
+C:\Users\vakondur\source\repos\App17\App17ConsoleClient\bin\Debug\App17ConsoleClient.pdb
+C:\Users\vakondur\source\repos\App17\App17ConsoleClient\obj\Debug\App17ConsoleClient.csprojAssemblyReference.cache
+C:\Users\vakondur\source\repos\App17\App17ConsoleClient\obj\Debug\App17ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\vakondur\source\repos\App17\App17ConsoleClient\obj\Debug\App17ConsoleClient.exe
+C:\Users\vakondur\source\repos\App17\App17ConsoleClient\obj\Debug\App17ConsoleClient.pdb
+C:\DotNetApps\App17\App17ConsoleClient\bin\Debug\App17ConsoleClient.exe.config
+C:\DotNetApps\App17\App17ConsoleClient\bin\Debug\App17ConsoleClient.exe
+C:\DotNetApps\App17\App17ConsoleClient\bin\Debug\App17ConsoleClient.pdb
+C:\DotNetApps\App17\App17ConsoleClient\obj\Debug\App17ConsoleClient.csprojAssemblyReference.cache
+C:\DotNetApps\App17\App17ConsoleClient\obj\Debug\App17ConsoleClient.csproj.CoreCompileInputs.cache
+C:\DotNetApps\App17\App17ConsoleClient\obj\Debug\App17ConsoleClient.exe
+C:\DotNetApps\App17\App17ConsoleClient\obj\Debug\App17ConsoleClient.pdb
